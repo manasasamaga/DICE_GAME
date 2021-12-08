@@ -1,0 +1,35 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ffa5ab;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'sacramento';
+  text-shadow: 5px 0 #ea1744;
+  font-size: 8rem;
+  color: #5d2a42;
+}
+
+p {
+  font-size: 2rem;
+  color: #6b2d5c;
+  font-family: 'sacramento';
+}
+
+img {
+  width: 80%;
+}
+
+
